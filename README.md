@@ -28,10 +28,13 @@ Cleavage of the insulin fusion protein will be triggered by change of pH (6.5-7)
 A **modular, decentralized biomanufacturing platform** capable of producing insulin at near-industrial purity  
 in localized, low-cost facilities.
 
-Future Plans, To house the E.coli on Hollow fiber bioreactor along with purification Machinery as shown
+# REMARKS- We acheived 60-70% of our expected fluorescence, translating to 3/4th of out Target reached
+![Image Alt](https://github.com/GaneshKishore01/Production-of-Recombinant-Human-Insulin-Peptide-leveraging-Hemolysin-Transport-System-T1SS-/blob/main/Screenshot%20(253).png)
+![Image Alt](https://github.com/GaneshKishore01/Production-of-Recombinant-Human-Insulin-Peptide-leveraging-Hemolysin-Transport-System-T1SS-/blob/main/Screenshot%20(135).png)
+
+
+---
+# Future Plan 
+To house the E.coli on Hollow fiber bioreactor along with purification Machinery as shown for decentralized production of insulin
 ![Image Alt](https://github.com/GaneshKishore01/Production-of-Recombinant-Human-Insulin-Peptide-leveraging-Hemolysin-Transport-System-T1SS-/blob/main/image5.png)
 
-REMARKS- We acheived 60-70% of our expected fluorescence, translating to 3/4 of out Target reached
----
-
-*This is a showcase repo. Contains design documents and lab planning only (no executable code).*
