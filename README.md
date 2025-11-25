@@ -30,11 +30,11 @@ in localized, low-cost facilities.
 
 # REMARKS- We acheived 60-70% of our expected fluorescence, translating to 3/4th of out Target reached
 ![Image Alt](https://github.com/GaneshKishore01/Production-of-Recombinant-Human-Insulin-Peptide-leveraging-Hemolysin-Transport-System-T1SS-/blob/main/Screenshot%20(253).png)
-![Image Alt](https://github.com/GaneshKishore01/Production-of-Recombinant-Human-Insulin-Peptide-leveraging-Hemolysin-Transport-System-T1SS-/blob/main/Screenshot%20(135).png)
+![Image Alt](https://github.com/GaneshKishore01/Production-of-Recombinant-Human-Insulin-Peptide-leveraging-Hemolysin-Transport-System-T1SS-/blob/main/Screenshot%20(255).png)
 
 
 ---
 # Future Plan 
 To house the E.coli on Hollow fiber bioreactor along with purification Machinery as shown for decentralized production of insulin
-![Image Alt](https://github.com/GaneshKishore01/Production-of-Recombinant-Human-Insulin-Peptide-leveraging-Hemolysin-Transport-System-T1SS-/blob/main/image5.png)
+![Image Alt](https://github.com/GaneshKishore01/Production-of-Recombinant-Human-Insulin-Peptide-leveraging-Hemolysin-Transport-System-T1SS-/blob/main/Screenshot%20(135).png)
 
